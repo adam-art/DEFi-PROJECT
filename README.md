@@ -15,7 +15,7 @@ DeFi Protocol adalah platform DeFi yang menyediakan:
 ## 🏗️ Struktur Proyek
 
 ```
-SMART CONTRACT PROJECT/
+DEFi PROJECT/
 ├── backend/                 # Backend API Server
 │   ├── src/
 │   │   ├── server.js       # Main server file
@@ -217,6 +217,7 @@ Jika mengalami masalah, silakan:
 ---
 
 **Selamat menggunakan DeFi Protocol! 🎉**
+
 
 
 
